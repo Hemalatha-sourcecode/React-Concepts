@@ -1,0 +1,1 @@
+How to send the data from parent to child component?
